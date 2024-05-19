@@ -1,0 +1,15 @@
+#rood{
+    font-family: Poppins;
+}
+
+.imagenes{
+    background: #FF9000;
+}
+
+.imagenes_items{
+    margin: 0 100px;
+}
+
+.img--center{
+    margin-left: 300px;
+}

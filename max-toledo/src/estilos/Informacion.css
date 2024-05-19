@@ -1,0 +1,33 @@
+.info{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 100px 150px;
+}
+
+.info h2{
+    font-size: 72px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+span{
+    color: #FF9000;
+}
+
+.price{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.last-price{
+    text-decoration: line-through;
+    color: #656565;
+}
+
+.text{
+    font-size: 18px;
+    color: #656565;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
