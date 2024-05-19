@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    font-family: Poppins;
+    margin: 0;
+    padding: 0;    
+    width: 1550px; /* El cuerpo ocupa el 100% del ancho de la ventana */
+    height: 800px; /* El cuerpo ocupa el 100% de la altura de la ventana */
+    
+}

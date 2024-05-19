@@ -1,0 +1,37 @@
+.piepagina{
+    background-color: #212E41;
+    color: #656565;
+}
+.izquierdo{
+    margin-left: 100px;
+}
+.bloque1{
+    
+    display: felx;
+    position: relative;
+    justify-content: center;
+    text-align: justify;
+
+}
+.Iconos{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    justify-content: center;
+    text-align: justify;
+    
+
+}
+
+.textp{
+    height: 40px;
+    width: 400px;
+
+}
+.piede{
+    margin-top: 35px;
+    text-align: center;
+    height: 40px;
+
+
+}
